@@ -1,11 +1,5 @@
 # Social-Network-Simulator
 
-This project simulates a "Social Network", where you can:
-
-- Make friends
-- Follow and un-follow people
-- Create, like and delete posts
-
 As you can see there are two modes in which you can use this program, details are as follow:
 
 ### Interactive mode
