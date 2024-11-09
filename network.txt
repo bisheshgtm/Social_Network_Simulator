@@ -1,0 +1,22 @@
+Bishesh Gautam
+Nidhi Jain
+Shlesha Shrestha
+Aryan Karki
+Sandesh Aryal
+Saugat Deo
+Lucky Khatri
+Nikhil Jaiswal
+Bishesh Gautam:Nidhi Jain
+Nidhi Jain:Shlesha Shrestha
+Shlesha Shrestha: Nidhi Jain
+Nidhi Jain: Aryan Karki
+Nidhi Jain:Sandesh Aryal
+Bishesh Gautam:Saugat Deo
+Bishesh Gautam:Shlesha Shrestha
+Bishesh Gautam:Aryan Karki
+Bishesh Gautam:Sandesh Aryal
+Bishesh Gautam:Lucky Khatri
+Bishesh Gautam:Nikhil Jaiswal
+Nidhi Jain:Nikhil Jaiswal
+Lucky Khatri:Saugat Deo
+Saugat Deo:Lucky Khatri
